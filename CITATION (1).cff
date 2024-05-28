@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Klahns Electrophysiology Processing
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - orcid: 'https://orcid.org/0009-0004-4275-5441'
+    given-names: Nikolaj Andreasen
+    family-names: Klahn
+    email: nikolajklahn@outlook.com
+repository-code: 'https://github.com/NikolajAndreasenKlahn/Elphys'
+license: MIT
+commit: 0a2d756
+date-released: '2022-12-12'
